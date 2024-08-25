@@ -1,0 +1,9 @@
+var apple = 5;
+var people = 2;
+var reminder = 5 % 2;
+console.log(reminder);
+
+var apple = 5;
+var people = 2;
+var reminder = 5 % 2;
+console.log(reminder);
